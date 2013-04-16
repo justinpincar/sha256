@@ -1,0 +1,11 @@
+{
+  "name": "sha256",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "3.x",
+    "stylus": "*"
+  }
+}
+
